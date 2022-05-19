@@ -3,8 +3,8 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=y4G5zEkAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>
-and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP profile</a>.
+You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=f-qKP9UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Google Scholar profile</a>
+and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target="_blank">ResearchGate profile</a>.
 <br />
 
 <h3>
@@ -14,9 +14,9 @@ and <a href="https://dblp.uni-trier.de/pers/hd/g/Guo:Guimu" target="_blank">DBLP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Maximal Directed Quasi-Clique Mining</strong><br />
-          <b>Guimu Guo</b>, Da Yan, Lyuheng Yuan, Jalal Khalil, Cheng Long, Zhe Jiang, Yang Zhou<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2022</b>)<br />
+		  <ul class = "d">
+			Zhenyu Weng#, Zongliang Yue#, Yuesheng Zhu*, Jake Yue Chen*, (accepted in ISMB) DEMA: a distance-bounded energy-field minimization algorithm to model and layout bio-molecular networks with quantitative features, Bioinformatics. (Impact factor: 6.9)
+          <ul />
        </p>
     </div>
 </div>
