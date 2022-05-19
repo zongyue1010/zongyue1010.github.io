@@ -14,39 +14,15 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-		  <ul class = "d">
-			Zhenyu Weng#, Zongliang Yue#, Yuesheng Zhu*, Jake Yue Chen*, (accepted in ISMB) DEMA: a distance-bounded energy-field minimization algorithm to model and layout bio-molecular networks with quantitative features, Bioinformatics. (Impact factor: 6.9)
-          <ul />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Distributed Task-Based Training of Tree Models</strong><br />
-          Da Yan, Md Mashiur Rahma Chowdhury, <b>Guimu Guo</b>, Jalal Kahlil, Zhe Jiang, Sushil Prasad<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2022</b>)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Parallel Graph Processing</strong><br />
-          Da YAN, Yang Zhou, <b>Guimu Guo</b><br />
-          Encyclopedia of Big Data Technologies<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Think Like a Task Programming Model</strong><br />
-          Da YAN, <b>Guimu Guo</b><br />
-          Encyclopedia of Big Data Technologies<br />
+		  <ul class = 'd'>
+			Zhenyu Weng#, <b>Zongliang Yue</b>#, Yuesheng Zhu*, Jake Yue Chen*, (accepted in ISMB) DEMA: a distance-bounded energy-field minimization algorithm to model and layout bio-molecular networks with quantitative features, Bioinformatics. (Impact factor: 6.9)
+          </ul>
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Radomir Slominski, Samuel Bharti and Jake Y. Chen*, (2022) PAGER Web APP: An interactive, online gene set and network interpretation tool for functional genomics, Front. in Genetics. (Impact factor: 4.2)
+          </ul>		  
+		  <ul class = 'd'>
+			Carlene L. Zindl#, Steven J. Witte#, Vincent A. Laufer#, Min Gao, <b>Zongliang Yue</b>, Karen M. Janowski, Baiyi Cai, Blake F. Frey, Daniel J. Silberger, Stacey N. Harbour, Jeffrey R. Singer, Henrietta Turner, Frances E. Lund, Bruce A. Vallance, Alexander F. Rosenberg, Trenton R. Schoeb, Jake Y. Chen, Robin D. Hatton, and Casey T. Weaver, (2022) A nonredundant role for T cell-derived interleukin 22 in antibacterial defense of colonic crypts, Immunity. (Impact factor: 31.7)
+          </ul>			  
        </p>
     </div>
 </div>
@@ -59,69 +35,18 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>G-thinker: A General Distributed Framework for Finding Qualified Subgraphs in a Big Graph with Load Balancing</strong><br />
-          Da YAN, <b>Guimu Guo</b>, Jalal Khalil, M. Tamer Ozsu, Wei-Shinn Ku, John C.S. Lui<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>PrefixFPM: A Parallel Framework for General-Purpose Mining of Frequent and Closed Patterns</strong><br />
-          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang, Yang Zhou<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Parallel Mining of Large Maximal Quasi-Cliques</strong><br />
-          Jalal Khalil, Da Yan, <b>Guimu Guo</b>, Lyuheng Yuan<br />
-          VLDB Journal 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Traffic Study of Shared Micromobility Services by Transportation Simulation</strong><br />
-          Jalal Khalil, Da Yan,  <b>Guimu Guo</b>, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia Sisiopiku<br />
-          BTSD@IEEE BigData 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Realistic Transport Simulation for Studying the Impacts of Shared Micromobility Services</strong><br />
-          Jalal Khalil, Da YAN, <b>Guimu Guo</b>, Mirza Tanzim Sami, Joy Bhadhan Roy, Virginia P. Sisiopiku<br />
-          IEEE BigData 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Drone-Based Tower Survey by Multi-Task Learning</strong><br />
-          Mirza Tanzim Sami, Da YAN, Huang Huang, Xinyu Liang, <b>Guimu Guo</b>, and Zhe Jiang<br />
-          IEEE BigData 2021<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Biological Network Mining</strong><br />
-          Zongliang Yue, Da Yan, <b>Guimu Guo</b>, Jake Yue Chen<br />
-          Modelling transcriptional Regulation, Methods in Molecular Biology, Springer, 2021<br />
+		  <ul class = 'd'>
+			Thanh M. Nguyen, Samuel Bharti, <b>Zongliang Yue</b>, Christopher D. Willey and Jake Y. Chen*, (2021) Statistical Enrichment Analysis of Samples (SEAS): a general-purpose tool to annotate metadata neighborhoods of biological samples, Front. Big Data | doi: 10.3389/fdata.2021.725276
+          </ul>
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Da Yan., Guimu Guo, and Jake Y. Chen, (2021) Biological Network Mining. In: MUKHTAR S. (eds) Modeling Transcriptional Regulation. Methods in Molecular Biology, vol 2328.
+          </ul>		  
+		  <ul class = 'd'>
+			Sweta B. Patel, Travis Nemkov, Davide Stefanoni, Gloria A. Benavides, Mahmoud A. Bassal, Brittany L. Crown, Victoria R. Matkins, Virginia Camacho, Valeriya Kuznetsova, Ashley T. Hoang, Danielle E. Tenen, Samuel L. Wolock, Jihye Park, Li Ying, <b>Zongliang Yue</b>, Jake Y. Chen, Henry Yang, Daniel G. Tenen, Paul Brent Ferrell, Rui Lu, Victor Darley-Usmar, Angelo D’Alessandro, Ravi Bhatia & Robert S. Welner, (2021) Metabolic alterations mediated by STAT3 promotes drug persistence in CML, Leukemia. (Impact factor: 11.5)
+          </ul>
+		  <ul class = 'd'>
+			<b>Zongliang Yue#</b>, Eric Zhang#, Clark Xu, Sunny Khurana, Nishant Batra, Son Dang, and Jake Y. Chen*, (2021) PAGER-CoV: A Pathway, Annotated-list and Gene-signature Electronic Repository for Coronavirus Diseases Studies, Nucleic Acids Research. (Impact factor: 16.9)
+          </ul>		  
        </p>
     </div>
 </div>
@@ -133,64 +58,18 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach</strong><br />
-          <b>Guimu Guo</b>, Da Yan, M. Tamer Özsu, Zhe Jiang, Jalal Majed Khalil<br />
-          Proceedings of the VLDB Endowment (<b>PVLDB 2020</b>)<br />
+		  <ul class = 'd'>
+			Christian Stackhouse, James Rowland, Joshua Anderson, Jelai Wang, Thanh Nguyen, <b>Zongliang Yue</b>, Jake Chen, Lara Ianov, Yancey Gillespie, Christopher Willey, (2020) CBIO-12. THE ROLES OF lncRNAs IN GBM RADIATION RESISTANCE AND TUMOR RECURRENCE, Neuro-Oncology. (Impact factor: 12.3)
+          </ul>
+		  <ul class = 'd'>
+			CD Willey, CT Stackhouse, JR Rowland, CP Langford, JC Anderson, L Ianov, <b>Z Yue</b>, T Nguyen, AB Hjelmeland, JY Chen, GY Gillespie, (2020) Multi-omic Exploration of Inherent and Acquired Radiation Resistance of Glioblastoma Patient-Derived Xenografts, International Journal of Radiation Oncology, Biology, Physics.
+          </ul>		  
+		  <ul class = 'd'>
+			Christian Tyler Stackhouse; James R. Rowland; Jelai Wang; Thanh Nguyen; <b>Zongliang Yue</b>; Jake Y. Chen; Lara Ianov; G. Yancey Gillespie; Christopher D. Willey, (2020) Long non-coding RNAs in glioblastoma tumor recurrence and therapy resistance, Cancer Res, 80 (16_Supplement): 279.
+          </ul>  
        </p>
     </div>
 </div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph</strong><br />
-          Da YAN, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, M. Tamer Özsu, Wei-Shinn Ku, John C.S. Lui<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining</strong><br />
-          Da YAN, Wenwen Qu, <b>Guimu Guo</b>, Xiaoling Wang<br />
-          The IEEE International Conference on Data Engineering (<b>ICDE 2020</b>)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Systems and Algorithms for Massively Parallel Graph Mining </strong>(Tutorial)<br />
-          Da Yan and <b>Guimu Guo</b><br />
-          2020 IEEE International Conference on Big Data (IEEE BigData 2020)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Parallel Mining of Frequent Subtree Patterns</strong><br />
-          Wenwen Qu, Da Yan, <b>Guimu Guo</b>, Xiaoling Wang, Lei Zou, Yang Zhou<br />
-          International Workshop on Large Scale Graph Data Analytics (LSGDA@VLDB 2020)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Accurate Tensor Decomposition with Simultaneous Rank Approximation for Surveillance Videos</strong><br />
-          Ramin Goudarzi Karim, <b>Guimu Guo</b>, Da Yan, Carmeliza Navasca<br />
-          The 54th Asilomar Conference on Signals, Systems and Computers<br />
-       </p>
-    </div>
-</div>
-
-
 
 <h3>
     <a name='2019'></a> 2019
@@ -199,63 +78,32 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>T-thinker: A Task-Centric Distributed Framework for Compute-Intensive Divide-and-Conquer Algorithms</strong><br />
-          Da Yan, <b>Guimu Guo</b>, Md Mashiur Rahman Chowdhury, M Tamer Özsu, John Lui, Weida Tan<br />
-          Proceedings of the 24th Symposium on Principles and Practice of Parallel Programmin (<b>PPOPP</b>)<br />
-          <a href="http://delivery.acm.org/10.1145/3300000/3295709/p411-yan.pdf?ip=138.26.210.43&id=3295709&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EF1E94F886913B1EB%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1561675280_8820d520da362ef3663e1868803212f5">[PDF]</a><br />
+		  <ul class = 'd'>
+			Xiaowen Liu#, <b>Zongliang Yue#</b>, Yimou Cao#, Lauren Taylor, Qing Zhang, Sung W. Choi, Samir Hanash, Sawa Ito*, Jake Y. Chen*, Huanmei Wu*, and Sophie Paczesny*&, (2019) Graft-Versus-Host Disease–Free Antitumoral Signature After Allogeneic Donor Lymphocyte Injection Identified by Proteomics and Systems Biology, JCO personalized oncology. (Impact factor: 4.8)
+          </ul>
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Thanh Nguyen, Eric Zhang, Jianyi Zhang, Jake Y Chen, (2019) WIPER: Weighted in-Path Edge Ranking for biomolecular association networks, Quantitative Biology. (Impact factor: 1.8)
+          </ul>		  
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Christopher D. Willey, Anita B Hjelmeland, and Jake Y. Chen*, (2019) BEERE: a Web Server for Biomedical Entity Expansion, Ranking, and Explorations. Nucleic Acids Research. (Impact factor: 16.9)
+          </ul>  
        </p>
     </div>
 </div>
 
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Scalable De Novo Genome Assembly Using a Pregel-Like Graph-Parallel System.
-</strong><br />
-          <b>Guimu Guo</b>, Hongzhi Chen, Da Yan, James Cheng, Jake Y. Chen, Zechen Chong<br />
-          IEEE/ACM transactions on computational biology and bioinformatics (TCBB 2019)<br />
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731736">[PDF]</a> <br />
-       </p>
-    </div>
-</div>
+<h3>
+    <a name='2018'></a> 2018
+</h3>
 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Realistic Transport Simulation: Tackling the Small Data Challenge with Open Data</strong><br />
-          <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (BTSD @ IEEE BigData 2019)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>EasyRain: A User-Friendly Platform for Comparing Precipitation Nowcasting Models</strong><br />
-          Ji Cheng, <b>Guimu Guo</b>, Da Yan, Xiaotian Hao, and Wilfred Ng<br />
-          2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Realistic Transport Simulation with Open Data</strong><br />
-          <b>Guimu Guo</b>, Jalal Majed Khalil, Da Yan, and Virginia Sisiopiku<br />
-          2019 IEEE International Conference on Big Data (IEEE BigData 2019)<br />
-       </p>
-    </div>
-</div>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Parallel Clique-like Subgraph Counting and Listing
-</strong><br />
-          Yi Yang, Da Yan, Shuigeng Zhou and <b>Guimu Guo</b><br />
-          ER 2019 – 38th International Conference on Conceptual Modeling (ER 2019)<br />
-          <a href="https://info.cs.uab.edu/yanda/papers/er_clique.pdf">[PDF]</a> <br />
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Michael T. Neylon, Thanh Nguyen, Timothy Ratliff, and Jake Y. Chen*, (2018) “Super gene set” causal relationship discovery from functional genomics data, IEEE Transactions on Computational Biology and Bioinformatics. (Impact factor: 3.0)
+          </ul> 
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Qi Zheng, Michael T. Neylon, Minjae Yoo, Jimin Shin, Zhiying Zhao, Aik Choon Tan, and Jake Y. Chen*, (2018) PAGER 2.0: an update to the pathway, annotated-list and gene-signature electronic repository for Human Network Biology. Nucleic Acids Research. (Impact factor: 16.9)
+          </ul> 		  
        </p>
     </div>
 </div>
@@ -263,14 +111,78 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 <h3>
     <a name='2017'></a> 2017
 </h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Traffic crash prediction based on incremental learning algorithm</strong><br />
-          Ping Sun, <b>Guimu Guo</b>, Rongjie Yu<br />
-          2017 IEEE 2nd International Conference on Big Data Analysis (ICBDA)<br />
-          <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8078803">[PDF]</a><br />
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Itika Arora, Eric Y. Zhang, Vincent Laufer, S. Louis Bridges, and Jake Y. Chen§, (2017) Repositioning drugs by targeting network modules: a Parkinson’s disease case study, BMC bioinformatics. (Impact factor: 3.1)
+          </ul> 	  
        </p>
     </div>
 </div>
 
+<h3>
+    <a name='2016'></a> 2016
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+		  <ul class = 'd'>
+			Jake Y. Chen*, <b>Zongliang Yue</b>, Michael T. Neylon, Thanh Nguyen, Nafisa Bulsara, Itika Arora, and Timothy Ratliff, (2016) “Towards constructing ‘Super Gene Sets’ regulatory networks”, IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
+          </ul> 	  
+		  <ul class = 'd'>
+			Xiaowen Liu*, <b>Zongliang Yue</b>, Jeffrey Yu, Etienne Daguindau, Qing Zhang, Yuko Ogata, Philip R. Gafken, Yoshihiro Inamoto, Adam Gracon, David Wilkes, John A. Hansen, Stephanie J. Lee, Jake Y. Chen§, and Sophie Paczesny§, (2016) Proteomic characterization reveals that MMP-3 correlates with bronchiolitis obliterans syndrome following allogeneic hematopoietic cell and lung transplantation, American Journal of Transplantation. (Impact factor: 8.0)
+          </ul> 	  
+       </p>	   
+    </div>
+</div>
+
+<h3>
+    <a name='2015'></a> 2015
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+		  <ul class = 'd'>
+			Hui Huang, Thanh Nguyen, Sara Ibrahim, Sandeep Shantharam, <b>Zongliang Yue</b>, and Jake Y. Chen*, (2015) DMAP: a Connectivity Map Database to Enable Identification of Novel Drug Repositioning Candidates, BMC bioinformatics. (Impact factor: 3.1)
+          </ul> 	  
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Madhura Kshirsagar, Thanh Nguyen, Chayaporn Suphavilai, Michael Neylon, Liugen Zhu, Timothy Ratliff and Jake Y Chen*, (2015) PAGER: constructing PAGs and new PAG–PAG relationships for network biology, Bioinformatics. (Impact factor: 6.9)
+          </ul> 	  
+       </p>	   
+    </div>
+</div>
+
+<h3>
+    <a name='2014'></a> 2014
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Ping Wan, Zhan Xie, and Jake Y. Chen*, (2014) Computational Identification of De-centric Genetic Regulatory Relationships from Functional Genomic Data, Bioinformatics Research and Applications Lecture Notes in Computer Science Volume 8492, 2014, pp 224-235.i Huang, Thanh Nguyen, Sara Ibrahim, Sandeep Shantharam, <b>Zongliang Yue</b>, and Jake Y. Chen*, (2015) DMAP: a Connectivity Map Database to Enable Identification of Novel Drug Repositioning Candidates, BMC bioinformatics. (Impact factor: 3.1)
+          </ul> 	  
+		  <ul class = 'd'>
+			<b>Zongliang Yue</b>, Ping Wan, Zhan Xie, and Jake Y. Chen*, (2014) SLDR: a computational technique to identify novel genetic regulatory relationships, BMC Bioinformatics (best paper) (Impact factor: 3.1)
+          </ul> 	  
+       </p>	   
+    </div>
+</div>
+
+<h3>
+    <a name='2013'></a> 2013
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+		  <ul class = 'd'>
+			Ping Wan*,#, <b>Zongliang Yue#</b>, Zhan Xie#, Qiang Gao, Mengyao Yu, Zhiwei Yang, and Jinsong Huang§, (2013) Mechanisms of Radiation Resistance in Deinococcus Radiodurans R1 by the Reconstruction of Gene Regulatory Network Using Bayesian Network Approach, Journal of Proteomics & Bioinformatics (JPB)
+          </ul> 	  
+       </p>	   
+    </div>
+</div>
