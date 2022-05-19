@@ -5,6 +5,12 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+	padding-left: 20px;
+}
 ul.d {
   list-style-type: decimal;
 }
