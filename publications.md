@@ -164,7 +164,7 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
     <div class="media-body">
        <p class="media-heading">
 		  <ul class = 'd'>
-			<b>Zongliang Yue</b>, Ping Wan, Zhan Xie, and Jake Y. Chen*, (2014) Computational Identification of De-centric Genetic Regulatory Relationships from Functional Genomic Data, Bioinformatics Research and Applications Lecture Notes in Computer Science Volume 8492, 2014, pp 224-235.i Huang, Thanh Nguyen, Sara Ibrahim, Sandeep Shantharam, <b>Zongliang Yue</b>, and Jake Y. Chen*, (2015) DMAP: a Connectivity Map Database to Enable Identification of Novel Drug Repositioning Candidates, BMC bioinformatics. (Impact factor: 3.1)
+			<b>Zongliang Yue</b>, Ping Wan, Zhan Xie, and Jake Y. Chen*, (2014) Computational Identification of De-centric Genetic Regulatory Relationships from Functional Genomic Data, Bioinformatics Research and Applications Lecture Notes in Computer Science Volume 8492, 2014, pp 224-235.
           </ul> 	  
 		  <ul class = 'd'>
 			<b>Zongliang Yue</b>, Ping Wan, Zhan Xie, and Jake Y. Chen*, (2014) SLDR: a computational technique to identify novel genetic regulatory relationships, BMC Bioinformatics (best paper) (Impact factor: 3.1)
