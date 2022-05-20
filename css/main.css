@@ -13,6 +13,7 @@ ul{
 }
 ul.d {
   list-style-type: decimal;
+  padding-left: 40px;
 }
 body {
   font-family: 'Lora', 'Times New Roman', serif;
