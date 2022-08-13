@@ -16,9 +16,14 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 		<h3>
 			<a name='2022'></a> 2022
 		</h3>
-		
 		  <li>
-			Zhenyu Weng#, <b>Zongliang Yue</b>#, Yuesheng Zhu*, Jake Yue Chen*, (accepted in ISMB) DEMA: a distance-bounded energy-field minimization algorithm to model and layout bio-molecliar networks with quantitative features, Bioinformatics. (Impact factor: 6.9)
+			Thanh Nguyen, Zongliang Yue, Radomir Slominski1, Robert Welner, Jianyi Zhang, and Jake Y. Chen, (under review) WINNER: a Network Biology Tool for Biomolecular Characterization and Prioritization. Frontiers in Big Data (Impact factor: 3.6)
+          </li>			
+		  <li>
+			Christian T. Stackhouse, Joshua C Anderson, <b>Zongliang Yue</b>, Thanh Nguyen, Nicholas J Eustace, Lara Ianov, Catherine P. Langford, Jelai Wang, James R Rowland, Chuan Xing, Fady M. Mikhail, Eddy S Yang, Anita Hjelmeland, C. Ryan Miller, Jake Chen, G. Yancey Gillespie, and Christopher D Willey, (2022) A novel in vivo model of Glioblastoma radiation resistance identifies long non-coding RNAs and targetable kinases, JCI Insight.(Impact factor: 8.3)
+          </li>		
+		  <li>
+			Zhenyu Weng#, <b>Zongliang Yue</b>#, Yuesheng Zhu*, Jake Yue Chen*, (2022) DEMA: a distance-bounded energy-field minimization algorithm to model and layout bio-molecliar networks with quantitative features, Bioinformatics. (Impact factor: 6.9)
           </li>
 		  <li>
 			<b>Zongliang Yue</b>, Radomir Slominski, Samuel Bharti and Jake Y. Chen*, (2022) PAGER Web APP: An interactive, online gene set and network interpretation tool for functional genomics, Front. in Genetics. (Impact factor: 4.2)
@@ -31,7 +36,7 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 			<a name='2021'></a> 2021
 		</h3>
 		  <li>
-			Thanh M. Nguyen, Samuel Bharti, <b>Zongliang Yue</b>, Christopher D. Willey and Jake Y. Chen*, (2021) Statistical Enrichment Analysis of Samples (SEAS): a general-purpose tool to annotate metadata neighborhoods of biological samples, Front. Big Data | doi: 10.3389/fdata.2021.725276
+			Thanh M. Nguyen, Samuel Bharti, <b>Zongliang Yue</b>, Christopher D. Willey and Jake Y. Chen*, (2021) Statistical Enrichment Analysis of Samples (SEAS): a general-purpose tool to annotate metadata neighborhoods of biological samples, Front. Big Data | doi: 10.3389/fdata.2021.725276 (Impact factor: 3.6)
           </li>
 		  <li>
 			<b>Zongliang Yue</b>, Da Yan., Guimu Guo, and Jake Y. Chen, (2021) Biological Network Mining. In: MUKHTAR S. (eds) Modeling Transcriptional Regliation. Methods in Molecliar Biology, vol 2328.
