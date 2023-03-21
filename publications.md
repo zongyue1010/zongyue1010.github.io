@@ -17,7 +17,7 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 			<a name='2022'></a> 2022
 		</h3>
 		  <li>
-			Thanh Nguyen, <b>Zongliang Yue</b>, Radomir Slominski1, Robert Welner, Jianyi Zhang, and Jake Y. Chen, (under review) WINNER: a Network Biology Tool for Biomolecular Characterization and Prioritization. Frontiers in Big Data (Impact factor: 3.6)
+			Thanh Nguyen, <b>Zongliang Yue</b>, Radomir Slominski1, Robert Welner, Jianyi Zhang, and Jake Y. Chen, (2023) WINNER: a Network Biology Tool for Biomolecular Characterization and Prioritization. Frontiers in Big Data (Impact factor: 3.6)
           </li>			
 		  <li>
 			Christian T. Stackhouse, Joshua C Anderson, <b>Zongliang Yue</b>, Thanh Nguyen, Nicholas J Eustace, Lara Ianov, Catherine P. Langford, Jelai Wang, James R Rowland, Chuan Xing, Fady M. Mikhail, Eddy S Yang, Anita Hjelmeland, C. Ryan Miller, Jake Chen, G. Yancey Gillespie, and Christopher D Willey, (2022) A novel in vivo model of Glioblastoma radiation resistance identifies long non-coding RNAs and targetable kinases, JCI Insight.(Impact factor: 8.3)
