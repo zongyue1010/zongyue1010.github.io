@@ -14,10 +14,10 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 		<p class="media-heading">
 		<ul class = 'd'>
 		<h3>
-			<a name='2024'></a> 2022
+			<a name='2024'></a> 2024
 		</h3>
 		  <li>
-			<b>Zongliang Yue</b>, Xiangzhong Xue, Jingjing Qian*, <b>Zongliang Yue</b>*, (2024) The association between polypharmacy and health-related quality of life among older adults with prostate cancer. Journal of Geriatric Oncology, 15 (5), 101772. (Impact factor: 2.9)
+			<b>Zongliang Yue</b>, Xiangzhong Xue, Jingjing Qian*, (2024) The association between polypharmacy and health-related quality of life among older adults with prostate cancer. Journal of Geriatric Oncology, 15 (5), 101772. (Impact factor: 2.9)
           </li>	
 		  <li>
 			Fengyuan Huang, Robert Welner, Jake Y Chen*, <b>Zongliang Yue</b>*, (2024) PAGER-scFGA: Unveiling Cell Functions and Molecular Mechanisms in Cell Trajectories through Single-Cell Functional Genomics Analysis. Frontiers in Bioinformatics, 4, 1336135. (Impact factor: 2.8)
@@ -29,7 +29,7 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 			Fengyuan Huang, Peng Xu, <b>Zongliang Yue</b>, Yuwei Song, Kaili Hu, Xinyang Zhao, Min Gao, Zechen Chong*, (2024) Body Weight Correlates with Molecular Variances in Patients with Cancer, Cancer Research, 84 (5), 757-770. (Impact factor: 12.7)
           </li>
 		<h3>
-			<a name='2023'></a> 2022
+			<a name='2023'></a> 2023
 		</h3>		  
 		  <li>
 			Xuejia Kang, Yongzhuo Huang, Huiyuan Wang, Sanika Jadhav, <b>Zongliang Yue</b>, Amit K Tiwari, R Jayachandra Babu*, (2023) Tumor-Associated Macrophage Targeting of Nanomedicines in Cancer Therapy, Pharmaceutics. (Impact factor: 5.4)
