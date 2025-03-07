@@ -78,8 +78,7 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
           </li>		  
 		  <li>
 			Carlene L. Zindl#, Steven J. Witte#, Vincent A. Laufer#, Min Gao, <b>Zongliang Yue</b>, Karen M. Janowski, Baiyi Cai, Blake F. Frey, Daniel J. Silberger, Stacey N. Harbour, Jeffrey R. Singer, Henrietta Turner, Frances E. Lund, Bruce A. Vallance, Alexander F. Rosenberg, Trenton R. Schoeb, Jake Y. Chen, Robin D. Hatton, and Casey T. Weaver, (2022) A nonredundant role for T cell-derived interleukin 22 in antibacterial defense of colonic crypts, <i>Immunity</i>. (Impact factor: 31.7)
-          </li>			
-		
+          </li>
 		<h3>
 			<a name='2021'></a> 2021
 		</h3>
