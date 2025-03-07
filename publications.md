@@ -18,22 +18,22 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 		</h3>		
 		  <li>
 			<b>Yue Z</b>, Zhou L, Huang F, Chen P. (2025) S2Map: An Online Interactive Platform for Signal Analysis in Cell Secretion-Signal Map. <i>Bioinformatics Advances</i>. (Impact factor: 2.4)
-		  </li>	
+		  </li>
 		<h3>
 			<a name='2024'></a> 2024
 		</h3>
 		  <li>
 			Nikitas Gerolimos, Vasileios Alevizos, Sabrina Edralin, Clark Xu, Akebu Simasiku, Georgios Priniotakis, George A. Papakostas, <b>Zongliang Yue</b>. (2024) Systematic Review of Swarm Intelligence for Autonomous Radiotherapy Planning Decision-Making. <i>16th International Conference on Computational Intelligence and Communication Networks</i> (CICN), IEEE.
-		  </li>	
+		  </li>
 		  <li>
 			Vasileios Alevizos, Akebu Simasiku, Dimitra Malliarou, Antonis Messinis, Sabrina Edralin, Clark Xu, <b>Zongliang Yue</b>, and George A. Papakostas. (2024) Integrating Artificial Open Generative Artificial Intelligence into Software Supply Chain Security, <i>Proc. of the 5th International Conference on Data Analytics for Business and Industry</i> (ICDABI), IEEE.
-		  </li>	
+		  </li>
 		  <li>
 			Vasileios Alevizos, Sabrina Edralin, Akebu Simasiku, Dimitra Malliarou, Antonis Messinis, George A. Papakostas, Clark Xu, and <b>Zongliang Yue</b>, (2024) Handwriting Anomalies and Learning Disabilities through Recurrent Neural Networks and Geometric Pattern Analysis, <i>ICECCE</i>, IEEE. 
-		  </li>	
+		  </li>
 		  <li>
 			<b>Yue Z</b>, McCormick NP, Ezeala OM, Durham SH, Westrick SC. (2024) EMSIG: Uncovering Factors Influencing COVID-19 Vaccination Across Different Subgroups Charactered by Embedding-based Spatial Information Gain Vaccines. <i>Vaccines</i>. (Impact factor: 5.2)
-		  </li>	
+		  </li>
 		  <li>
 			<b>Yue Z</b>, Jaradat S, Qian J. (2024) Prediction of cognitive impairment among Medicare beneficiaries using a machine learning approach. <i>Arch Gerontol Geriatr</i>. (Impact factor: 3.5)
 		  </li>		  
