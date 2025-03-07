@@ -7,7 +7,9 @@ You can also browse my <a href="https://scholar.google.com/citations?hl=en&user=
 and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target="_blank">ResearchGate profile</a>.
 <br />
 
-
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 
 <div class="media">
     <div class="media-body">
