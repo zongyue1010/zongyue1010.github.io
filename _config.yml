@@ -15,7 +15,13 @@ url: "https://zongyue1010.github.io/"
 
 # baseurl should be an empty string
 #baseurl: ""
-theme: "beautiful-jekyll"
+remote_theme: "daattali/beautiful-jekyll"  # Ensure correct theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
 
 # --- Navigation bar options --- #
 
