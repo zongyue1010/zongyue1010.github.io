@@ -7,8 +7,7 @@ title: Projects
     <div class="media-body">
        <p class="media-heading">
           <strong>Network-based Multi-level Module Construction and Terrain Knowledge Mapping in Glioblastoma Patient-Derived Xenograft (GBM PDX). </strong><br />
-          I aim to develop a technique to explore the abnormal functions in the radiation resistance or/and temozolomide resistance and screen the potential drugs to eventually increase the survival rate.<br />
-                   
+          I aim to develop a technique to explore the abnormal functions in the radiation resistance or/and temozolomide resistance and screen the potential drugs to eventually increase the survival rate.<br />                 
        </p>
     </div>
 </div>
