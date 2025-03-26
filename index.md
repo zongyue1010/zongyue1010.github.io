@@ -3,8 +3,8 @@
 <meta http-equiv='pragma' content='no-cache'>
 ---
 layout: page
-title: Zongliang (Wells) Yue
-subtitle: Assistant Research Professor, Auburn University, AL
+title: index
+subtitle: The research background about me
 use-site-title: true
 ---
 <center>zongyue@auburn.edu</center>
