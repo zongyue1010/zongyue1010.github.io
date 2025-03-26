@@ -3,7 +3,7 @@
 <meta http-equiv='pragma' content='no-cache'>
 ---
 layout: page
-title: Index
+title: Home
 subtitle: The research background about me
 use-site-title: true
 ---
