@@ -20,10 +20,17 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 		</h2>
 		<h3>
 			<a name='2025'></a> 2025
-		</h3>		
+		</h3>
+			<li>
+				Alevizos V, <b>Yue Z*</b>, Edralin S, Xu C, Georlimos N, and Papakostas GA. (2025) Reef Calculus: Nature’s Equation for Pollution Control. <i>Water</i>. (Impact factor: 3.0)
+			</li>		
+			<li>
+				Alevizos V, Georlimos N, Edralin S, Xu C, Simasiku A, Priniotakis G, Papakostas GA, <b>Yue Z</b>. (2025) Systematic Review on Sustainable Design Thinking Through Biomimetic Approach. <i>2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC). IEEE</i>. (Impact factor: 2.4)
+			</li>		
 			<li>
 				<b>Yue Z</b>, Zhou L, Huang F, Chen P. (2025) S2Map: An Online Interactive Platform for Signal Analysis in Cell Secretion-Signal Map. <i>Bioinformatics Advances</i>. (Impact factor: 2.4)
-			</li>	
+			</li>
+			
 		<h3>
 			<a name='2024'></a> 2024
 		</h3>
