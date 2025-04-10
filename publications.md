@@ -30,7 +30,6 @@ and <a href="https://www.researchgate.net/profile/Zongliang-Yue/research" target
 			<li>
 				<b>Yue Z</b>, Zhou L, Huang F, Chen P. (2025) S2Map: An Online Interactive Platform for Signal Analysis in Cell Secretion-Signal Map. <i>Bioinformatics Advances</i>. (Impact factor: 2.4)
 			</li>
-			
 		<h3>
 			<a name='2024'></a> 2024
 		</h3>
